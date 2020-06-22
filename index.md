@@ -3,10 +3,10 @@ The Doctor is a timelord or rather the last timelord. Together with his TARDIS h
 
 ## How to spot The Doctor
 Well, as The Doctor regenerates from time to time and gets a new appearal, it is not easy to recognize him. But there are some hints:
-# the nearby tardis
-# strange outfit
-# always in a hurry and slightly confused
-# if asked by his/her name you just get "The Doctor"
-# more detailed question will lead to "just The Doctor"
-# you just stumbled across some cyber men or daleks (glad you survived!)
+* the nearby tardis
+* strange outfit
+* always in a hurry and slightly confused
+* if asked by his/her name you just get "The Doctor"
+* more detailed question will lead to "just The Doctor"
+* you just stumbled across some cyber men or daleks (glad you survived!)
 
